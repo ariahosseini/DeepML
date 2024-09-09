@@ -1,2 +1,2 @@
 # DeepML
-Modern Deep Learrning 
+Modern Deep Learning 
